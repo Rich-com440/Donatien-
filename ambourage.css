@@ -1,0 +1,42 @@
+body{
+    padding:0;
+    margin:0;
+}
+
+h1{
+    font-family:cortana sans serif;
+    font-size: 32px;
+    text-align: center;
+    color: #fb4bc7;
+    text-decoration: underline;
+}
+
+p{
+    width: 300px;
+    margin:auto;
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px 15px;
+    font-size: 15px;
+}
+
+.section {
+    margin: auto;
+    width: 300px;
+    justify-content: center;
+    margin: 5px;
+    
+}
+
+.section p{
+    border:none;
+    padding: 10px 25px;
+    text-align:center;
+}
+
+.section h2{
+    font-family: taoma sans serif;
+    font-size: 32px;
+    text-decoration: none;
+    text-align: center;
+}
